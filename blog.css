@@ -47,7 +47,7 @@ nav ul li a{
     letter-spacing: 3px;
 }
 #banner .center1{
-    max-width: 100%;
+    width: 100%;
     margin: 0px auto;
     text-align: center;
     position: relative;
