@@ -23,6 +23,7 @@ nav{
 #banner{
     background-color: #8B8B7A;
     height: 700px;
+    width:100%;
 }
 nav ul{
     list-style: none;
